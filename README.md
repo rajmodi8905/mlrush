@@ -22,5 +22,5 @@ This challenge tested not just modeling skills, but also our ability to work wit
 
 
 Efforts by:
-- Raj Amit Modi (24110282), Mechanical Engineering
+- Raj Amit Modi (24110282), Computer Science & Engineering
 - Suhani (24110358), Computer Science & Engineering
